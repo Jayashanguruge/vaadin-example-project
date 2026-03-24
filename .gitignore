@@ -1,3 +1,10 @@
+# Mac system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+
 node_modules
 HELP.md
 target/
